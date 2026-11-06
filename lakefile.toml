@@ -1,0 +1,6 @@
+name = "LibspngF"
+version = "0.1.0"
+defaultTargets = ["LibspngF"]
+
+[[lean_lib]]
+name = "LibspngF"
